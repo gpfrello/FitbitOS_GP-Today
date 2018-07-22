@@ -1,0 +1,168 @@
+#root {
+  viewport-fill: black;
+  fill: white;
+}
+
+#background {
+  x: 0;
+  y: 0;
+  width: 100%;
+  height: 100%;
+  fill: black;
+}
+
+
+#steps_icon {
+  fill: white;
+  opacity: 1;
+  x: 5%;
+  y: 40%;
+  width: 24;
+  height: 24;
+}
+
+#activeminutes_icon {
+  fill: white;
+  opacity: 1; 
+  x: 5%;
+  y: 88%;
+  width: 24;
+  height: 24;
+}
+
+#cals_icon {
+  fill: white;
+  opacity: 1; 
+  x: 5%;
+  y: 64%;
+  width: 24;
+  height: 24;
+}
+
+
+#floors_icon {
+  fill: white;
+  opacity: 1; 
+  x: 5%;
+  y: 52%;
+  width: 24;
+  height: 24;
+}
+
+#distance_icon { 
+  fill: white; 
+  opacity: 1; 
+  x: 5%;
+  y: 76%;
+  width: 24;
+  height: 24;
+}
+
+#hrIcon {
+  x: 68%;
+  y: 56%;
+  width: 48;
+  height: 48;
+}
+
+#timeLabel {
+  font-size: 60;
+  font-family: System-Bold;
+  text-length: 8;
+  text-anchor: end;
+  x: 95%;
+  y: 35%;
+  fill: cyan;
+}
+
+
+#batteryLabel {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 70%;
+  y: 98%;
+  fill: white;
+}
+
+#dateLabel {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: end;
+  x: 90%;
+  y: 10%;
+  fill: white;
+}
+
+#stepsLabel {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 10;
+  text-anchor: start;
+  x: 15%;
+  y: 48%;
+  fill: white;
+}
+
+#floorsLabel {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 9;
+  text-anchor: start;
+  x: 15%;
+  y: 60%;
+  fill: white;
+}
+
+#caloriesLabel {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 12;
+  text-anchor: start;
+  x: 15%;
+  y: 72%;
+  fill: white;
+}
+
+#distanceLabel {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 8;
+  text-anchor: start;
+  x: 15%;
+  y: 84%;
+  fill: white;
+}
+
+#activeminutesLabel {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 7;
+  text-anchor: start;
+  x: 15%;
+  y: 96%;
+  fill: white;
+} 
+
+#hrText {
+  font-size: 35;
+  font-family: Colfax-Regular;
+  text-length: 3;
+  text-anchor: start;
+  x: 69%+52;
+  y: 70%;
+  fill: #ffffff;
+} 
+
+#battery_icon { 
+  fill: white; 
+  opacity: 1; 
+  x: 70%;
+  y: 92%;
+  width: 24;
+  height: 24;
+}
+
+

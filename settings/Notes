@@ -1,0 +1,27 @@
+<Section
+        title={<Text bold align="center">Contact Me</Text>}>
+        <Text>
+          I'm a 47 years old guy with a busy real life who loves to keep learning. I'm thrilled you are using my little application and  would be really happy if you write me an email with suggestions, bugs reports, wishes or just to say you are using GP Today. I will try my best to fullfill your wishes depending on my free time and limited capabilities.
+        </Text>
+        <Link source="https://rawgit.com/cmspooner/Kearsarge-Time-for-Fitbit-Ionic/master/settings/email.html">
+          <TextImageRow
+            label="Email"
+            sublabel="gp.frello@gmail.com"
+            icon="https://github.com/cmspooner/Kearsarge-Time-for-Fitbit-Ionic/blob/master/resources/icons/settings/Email.png?raw=true"
+          />
+        </Link>
+        <Link source="https://github.com/gpfrello">
+          <TextImageRow
+            label="Github"
+            sublabel="https://github.com/gpfrello"
+            icon="https://github.com/gpfrello/FitbitOS_GP-Today/blob/master/resources/icons/settings/Github.png?raw=true"
+          />
+        </Link>
+        <Link source="https://paypal.me/gpfrello">
+          <TextImageRow
+            label="PayPal"
+            sublabel="gp.frello@gmail.com"
+            icon="https://github.com/gpfrello/FitbitOS_GP-Today/blob/master/resources/icons/settings/Paypal.png?raw=true"
+          />
+        </Link>
+      </Section>
