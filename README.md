@@ -6,6 +6,8 @@ A simple clockface for Fitbit Ionic and Versa featuring:
 - time in 12h/24h mode as per Fitbit app setting
 - date/day/month 
 - HR and heart animation (courtesy from KiezelPay, see https://github.com/KiezelPay/Fitbit_Realistic_HRM)
+- colors configurable via settings
+- goal icons change colors when target reached
 
 Update 1.1
 - fixed battery status refresh
@@ -34,6 +36,9 @@ Update 1.5
 - Fixed calorie in place of calories
 
 Update 1.6
+- Addition of battery icon next to battery level
 - Implementation of settings to change color of background, time and texts 
-(excluded HR and the heart shape)
+(excluded HR and the heart/battery icons)
+
+
 
